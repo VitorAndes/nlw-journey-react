@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light dark;
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+
+
