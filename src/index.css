@@ -5,6 +5,7 @@
 :root {
   color-scheme: light dark;
   text-rendering: optimizeLegibility;
+  --rdp-selected-color: #BEF264;
 }
 
 * {
